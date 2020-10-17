@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>abtn-link</Title>
+			<Shortcut>abtn-link</Shortcut>
+			<Description>Button</Description>
+			<Author>TimChen</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+				<Literal>
+					<ID>onClick</ID>
+					<ToolTip>点击事件</ToolTip>
+					<Default>OnClick</Default>
+				</Literal>
+				<Literal>
+					<ID>title</ID>
+					<ToolTip>按钮标题</ToolTip>
+					<Default>按钮</Default>
+				</Literal>
+			</Declarations>
+      <Code Language="html">
+        <![CDATA[<Button OnClick="$onClick$" Type="link">$title$</Button>$end$]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
