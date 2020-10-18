@@ -4,6 +4,8 @@
 
 # 安装
 
+https://marketplace.visualstudio.com/items?itemName=TimChen44.AntDesignBlazorSnippets
+
 # 支持的代码片段
 
 ## Blazor
