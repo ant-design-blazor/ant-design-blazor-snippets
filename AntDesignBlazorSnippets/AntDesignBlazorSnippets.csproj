@@ -52,19 +52,19 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="BlazorCSharp\Blzaor\cprop.snippet">
+    <Content Include="BlazorCSharp\Blazor\cprop.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="BlazorCSharp\Blzaor\eprop.snippet">
+    <Content Include="BlazorCSharp\Blazor\eprop.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="BlazorCSharp\Blzaor\iprop.snippet">
+    <Content Include="BlazorCSharp\Blazor\iprop.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="BlazorCSharp\Blzaor\pprop.snippet">
+    <Content Include="BlazorCSharp\Blazor\pprop.snippet">
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
@@ -84,7 +84,7 @@
       <IncludeInVSIX>true</IncludeInVSIX>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="BlazorCSharp\Blzaor\ihttp.snippet">
+    <Content Include="BlazorCSharp\Blazor\ihttp.snippet">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
