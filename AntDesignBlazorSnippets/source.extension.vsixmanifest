@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="AntDesignBlazorSnippets.e5280b51-fa7a-4e62-bb8e-dfc38818ec9a" Version="1.0" Language="zh-CN" Publisher="TimChen" />
-        <DisplayName>AntDesignBlazorSnippets</DisplayName>
+        <Identity Id="AntDesignBlazorSnippets.84470077-784d-41b9-922e-1aca28d5634f" Version="1.0" Language="zh-CN" Publisher="TimChen" />
+        <DisplayName>Ant Design Blazor Snippets</DisplayName>
         <Description xml:space="preserve">ant-design-blazor的代码片段</Description>
         <MoreInfo>https://github.com/TimChen44/ant-design-blazor-snippets</MoreInfo>
         <License>LICENSE.TXT</License>
